@@ -1,12 +1,8 @@
-# Modal com HTML, CSS e JavaScript
+<h1 align = "center"> Lógica de Prog. - aula 27 - Modal </h1> 
 
-Este projeto demonstra como criar múltiplos modais em uma única página utilizando HTML, CSS e JavaScript.
 
-## Instalação
+<h3 align = "center"> Fotos </h3>
 
-1. Clone o repositório ou faça o download dos arquivos.
-2. Abra o arquivo `index.html` no seu navegador.
+![image](https://github.com/user-attachments/assets/79d2f3d4-c545-4bf2-b8d5-a1eb6eaaeb9d)
 
-## Visualizar o Projeto
-
-Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://larissakich.github.io/modal/)
+![image](https://github.com/user-attachments/assets/51cf7891-56be-4584-9526-39d3b34a6c5b)
